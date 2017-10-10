@@ -20,6 +20,5 @@ def speak_to_grandma(string)
  elsif (string == "I LOVE YOU GRANDMA!")
     puts "I LOVE YOU TOO PUMPKIN!"
  else
-  false
   end
 end
